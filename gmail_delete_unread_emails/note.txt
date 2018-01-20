@@ -1,0 +1,10 @@
+
+click div class J-J5-Ji J-JN-M-I-Jm
+unread div class J-N
+span class T-Jo J-J5-Ji T-Jo-auq T-Jo-aMF checked == true then delete
+	delete div class asa
+else
+	go to next div id :io
+		
+
+span class bofITb split by space
