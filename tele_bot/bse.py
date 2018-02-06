@@ -77,7 +77,7 @@ def bse_price(bot, update):
                 print type(reply)
                 print reply
 
-                
+
 
                 print type(reply)
                 print reply
