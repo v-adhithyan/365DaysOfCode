@@ -1,4 +1,4 @@
-from word_values import load_words, calc_word_value, max_word_value
+from .word_values import load_words, calc_word_value, max_word_value
 
 words = load_words()
 
