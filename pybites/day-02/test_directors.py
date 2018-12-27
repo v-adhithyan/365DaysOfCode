@@ -14,8 +14,8 @@ def test_get_movies_by_director():
 
 def test_director_movies_data_structure():
     assert type(director_movies) in (dict, defaultdict)
-    assert type(director_movies['Peter Jackson']) == list
-    assert type(director_movies['Peter Jackson'][0]) == Movie
+    assert isinstance(director_movies['Peter Jackson'], list)
+    assert isinstance(director_movies['Peter Jackson'][0], Movie)
 
 
 def test_calc_mean_score():
