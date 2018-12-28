@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Desktop/work/hdp/.idea/hdp.iml" filepath="$USER_HOME$/Desktop/work/hdp/.idea/hdp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/pybites.iml" filepath="$PROJECT_DIR$/.idea/pybites.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/work/sugarcrm/.idea/sugarcrm.iml" filepath="$USER_HOME$/Desktop/work/sugarcrm/.idea/sugarcrm.iml" />
+    </modules>
+  </component>
+</project>
