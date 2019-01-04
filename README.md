@@ -12,3 +12,7 @@
 ## day 3 (Jan 3, 2019)
   Added sentry integration to my [india-elections](<https://github.com/v-adhithyan/india-elections>) where cleaned tweet was not used to generate word cloud, and fixed
   environment variable import error in production.
+  
+## day 4 (Jan 4, 2019)
+  Fixed a simple bug in my [india-elections](<https://github.com/v-adhithyan/india-elections>) project to add allowed hosts, where in the app was not loading
+  in production.
