@@ -16,3 +16,9 @@
 ## day 4 (Jan 4, 2019)
   Fixed a simple bug in my [india-elections](<https://github.com/v-adhithyan/india-elections>) project to add allowed hosts, where in the app was not loading
   in production.
+  
+## day 5 (Jan 5, 2019)
+  Optimized my [india-elections](<https://github.com/v-adhithyan/india-elections>) project, so that
+  instead of generating wordcloud for a same query again and again, on first generation
+  the file path will be saved in db and on subsequent calls to same query the file
+  will be served from already generated one.
