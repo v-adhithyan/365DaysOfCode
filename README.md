@@ -22,3 +22,9 @@
   instead of generating wordcloud for a same query again and again, on first generation
   the file path will be saved in db and on subsequent calls to same query the file
   will be served from already generated one.
+  
+## day 6 (Jan 6, 2019)
+  Modified clean tweet function for my [india-elections](<https://github.com/v-adhithyan/india-elections>) to exclude
+  retweets from visualizations. Also the complexity is coming up
+  a way to not store tweets but also it should not hinder visualizations.
+  
