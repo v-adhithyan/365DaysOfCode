@@ -28,3 +28,7 @@
   retweets from visualizations. Also the complexity is coming up
   a way to not store tweets but also it should not hinder visualizations.
   
+## day 7 (Jan 7, 2019)
+  Read 2 python related tutorials. <https://www.pingshiuanchua.com/blog/post/2018-trending-english-searches-on-google-us-uk-in-sg-my-ph-google-trends> <https://realpython.com/python-string-formatting/>
+  
+  
