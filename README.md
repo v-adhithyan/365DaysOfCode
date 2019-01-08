@@ -31,4 +31,6 @@
 ## day 7 (Jan 7, 2019)
   Read 2 python related tutorials. <https://www.pingshiuanchua.com/blog/post/2018-trending-english-searches-on-google-us-uk-in-sg-my-ph-google-trends> <https://realpython.com/python-string-formatting/>
   
+## day 8 (Jan 8, 2019)
+  Read a white paper regarding analysing sentiments from tweets to predict election results.
   
