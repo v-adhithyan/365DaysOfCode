@@ -37,3 +37,5 @@
 ## day 9 (Jan 9, 2019)
   Studied about building dashboards with python. <https://pusher.com/tutorials/live-dashboard-python> <https://blog.sicara.com/bokeh-dash-best-dashboard-framework-python-shiny-alternative-c5b576375f7f?gi=bb613743bcf1> I think this will be useful for my india elections project. After finalising v1 of project, have to come up with dashboard.
   
+## day 10 (Jan 10, 2019)
+  Mostly into reading pycoder issue 350 and trying out some stuff from tutorial.
