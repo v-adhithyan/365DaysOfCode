@@ -39,3 +39,9 @@
   
 ## day 10 (Jan 10, 2019)
   Mostly into reading pycoder issue 350 and trying out some stuff from tutorial.
+
+## day 11 (Jan 11, 2019)
+  Added contour detection to my android app. I am trying to reverse engineer Camscanner app. This was started long back. Switching to it for fresh breath of air. Only for today.
+
+## day 12 (Jan 12, 2019)
+  Coded a simple python script to rename media files.
