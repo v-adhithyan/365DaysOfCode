@@ -45,3 +45,7 @@
 
 ## day 12 (Jan 12, 2019)
   Coded a simple python script to rename media files.
+  
+## day 13 (Jan 13, 2019)
+  Changed db model to not store tweets. Now only search term and corresponding count will be stored in db.
+   
