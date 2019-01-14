@@ -48,4 +48,6 @@
   
 ## day 13 (Jan 13, 2019)
   Changed db model to not store tweets. Now only search term and corresponding count will be stored in db.
-   
+  
+## day 14 (Jan 14, 2019)
+  Fixed a bug in my india elections project from sentry. 
