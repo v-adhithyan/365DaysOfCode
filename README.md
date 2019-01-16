@@ -50,4 +50,11 @@
   Changed db model to not store tweets. Now only search term and corresponding count will be stored in db.
   
 ## day 14 (Jan 14, 2019)
-  Fixed a bug in my india elections project from sentry. 
+  Fixed a bug in my india elections project from sentry.
+  
+## day 15 (Jan 15, 2019)
+  Fixed a bug in day 12 python script where colors were improperly named.
+  
+## day 16 (Jan 16, 2019)
+  Made an enhancement in day 12 python script to include directories also while renaming.
+   

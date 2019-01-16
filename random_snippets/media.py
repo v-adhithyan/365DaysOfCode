@@ -24,7 +24,7 @@ def alert(msg):
 
 def rename_files(path):
     os.chdir(path)
-    files = (f for f in Path(".").iterdir() if not f.is_dir())
+    files = (f for f in Path(".").iterdir())
     for f in files:
         filename = str(f.name)
         if "tamilrockers" in filename.lower():
