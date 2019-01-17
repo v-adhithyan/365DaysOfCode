@@ -57,4 +57,11 @@
   
 ## day 16 (Jan 16, 2019)
   Made an enhancement in day 12 python script to include directories also while renaming.
-   
+  
+## day 17 (Jan 17, 2019)
+  For my india elections project, I need gender of twitter users.Since twitter api does not
+  provide gender data, I thought of predicting gender names from twitter names.
+  Since my project focusses only on india and there is no good open source library to
+  predict gender from indian names, forked a gender guessor python
+  library and modified to predict gender from indian names.
+  Repo link: <https://github.com/v-adhithyan/gender-guesser-indian> 
