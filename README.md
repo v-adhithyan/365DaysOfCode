@@ -65,3 +65,12 @@
   predict gender from indian names, forked a gender guessor python
   library and modified to predict gender from indian names.
   Repo link: <https://github.com/v-adhithyan/gender-guesser-indian> 
+  
+ ## day 18 (Jan 18, 2019)
+  Refreshed machine learning basics from this tutorial <https://www.pyimagesearch.com/2019/01/14/machine-learning-in-python/> and tried them.
+ 
+ ## day 19 (Jan 19, 2019)
+  Completed v1 version of gender predictor. https://www.pyimagesearch.com/2019/01/14/machine-learning-in-python/
+  
+ ## day 20 (Jan 20, 2019)
+  Improved accuracy of gender predictor to 88% from 78% https://github.com/v-adhithyan/gender-guess-indiannames/commit/d98f642ce751cedc15165ab76a3a8c25c46738ea.
