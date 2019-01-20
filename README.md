@@ -70,7 +70,7 @@
   Refreshed machine learning basics from this tutorial <https://www.pyimagesearch.com/2019/01/14/machine-learning-in-python/> and tried them.
  
  ## day 19 (Jan 19, 2019)
-  Completed v1 version of gender predictor. https://github.com/v-adhithyan/gender-guess-indiannames/commit/ab7d033ff4907e7b084e08332a9aad0b919765f9
+  I was not satisfied with the forked repo. So started from scratcha and completed v1 version of gender predictor. https://github.com/v-adhithyan/gender-guess-indiannames/commit/ab7d033ff4907e7b084e08332a9aad0b919765f9
   
  ## day 20 (Jan 20, 2019)
   Improved accuracy of gender predictor to 88% from 78% https://github.com/v-adhithyan/gender-guess-indiannames/commit/d98f642ce751cedc15165ab76a3a8c25c46738ea.
