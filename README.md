@@ -74,3 +74,6 @@
   
  ## day 20 (Jan 20, 2019)
   Improved accuracy of gender predictor to 88% from 78% https://github.com/v-adhithyan/gender-guess-indiannames/commit/d98f642ce751cedc15165ab76a3a8c25c46738ea.
+  
+## day 21 (Jan 21, 2019)
+  Modified gender predictor to upload to pypi. The package is live at https://pypi.org/project/guess-indian-gender/
