@@ -78,3 +78,7 @@
 ## day 21 (Jan 21, 2019)
   Modified gender predictor to upload to pypi. The package is live at https://pypi.org/project/guess-indian-gender/
 
+## day 22 (Jan 22, 2019)
+  Integrated my library gender-guess-indian with my india elections project and added
+  columns male and female to my database model.
+
