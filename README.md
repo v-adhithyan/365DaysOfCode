@@ -82,3 +82,5 @@
   Integrated my library gender-guess-indian with my india elections project and added
   columns male and female to my database model.
 
+## day 23 (Jan 23, 2019)
+  Added gender chart to front end of india elections dashboard. 
