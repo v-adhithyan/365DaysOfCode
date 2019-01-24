@@ -83,4 +83,7 @@
   columns male and female to my database model.
 
 ## day 23 (Jan 23, 2019)
-  Added gender chart to front end of india elections dashboard. 
+  Added gender chart to front end of india elections dashboard.
+
+## day 24 (Jan 24, 2019)
+  Modified frontend code to show charts in seperate cards for my india elections dashboard. 
