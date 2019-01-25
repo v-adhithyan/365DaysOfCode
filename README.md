@@ -87,3 +87,6 @@
 
 ## day 24 (Jan 24, 2019)
   Modified frontend code to show charts in seperate cards for my india elections dashboard. 
+  
+## day 25 (Jan 25, 2019)
+  Fixed a bug in my indiaelections <https://github.com/v-adhithyan/india-elections> project where party and candidates were mapped to wrong alliance.
