@@ -94,3 +94,5 @@
 ## day 26 (Jan 26, 2019)
   Added unit tests to my india elections project to improve coverage <https://github.com/v-adhithyan/india-elections>
 
+## day 27 (Jan 27, 2019)
+  Added a new column in core model Tweetstats to associate party. Also, Optimized some util functions. These changes were performed to accomodate timeseries tweet plot change.
