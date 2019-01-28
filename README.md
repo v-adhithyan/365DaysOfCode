@@ -96,3 +96,6 @@
 
 ## day 27 (Jan 27, 2019)
   Added a new column in core model Tweetstats to associate party. Also, Optimized some util functions. These changes were performed to accomodate timeseries tweet plot change.
+
+## day 28 (Jan 28, 2019)
+  Modified the frontend to show timeseries plot.
