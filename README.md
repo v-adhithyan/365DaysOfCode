@@ -102,3 +102,6 @@
   
 ## day 29 (Jan 29, 2019)
   Took a break from my india elections project. Read pycoders issue 352 and tried out some stuff. Also read about django cms for my upcoming project after india elections. <https://www.accordbox.com/blog/wagtail-tutorials/> <http://mezzanine.jupo.org>
+  
+## day 30 (Jan 30, 2019)
+  Fixed a bug in my india elections <https://github.com/v-adhithyan/india-elections> where alliance was not getting associated with new tweets.
