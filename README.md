@@ -105,3 +105,6 @@
   
 ## day 30 (Jan 30, 2019)
   Fixed a bug in my india elections <https://github.com/v-adhithyan/india-elections> where alliance was not getting associated with new tweets.
+  
+## day 31 (Jan 31, 2019)
+  Added unittests to cover timeseries change for my india elections project. <https://github.com/v-adhithyan/india-elections>. Merged this branch with master.
