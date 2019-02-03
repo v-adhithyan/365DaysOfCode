@@ -108,3 +108,9 @@
   
 ## day 31 (Jan 31, 2019)
   Added unittests to cover timeseries change for my india elections project. <https://github.com/v-adhithyan/india-elections>. Merged this branch with master.
+  
+## day 32 (Feb 01, 2019)
+  Fixed a memory leak bug in indiaelections project. This bug caused 500 error. The bug was due to matplot open frames which keeps references to all plots created using matplot untill explicitly closed.
+  
+## day 33 (Feb 02, 2019)
+  Modified india elections <https://github.com/v-adhithyan/india-elections> to use mysql in production. Will continue to use sqlite for testing and development.
