@@ -119,4 +119,7 @@
   Modified india elections <https://github.com/v-adhithyan/india-elections> to use mysql in production. Will continue to use sqlite for testing and development.
 
 ## day  35 (Feb 04, 2019)
-    Added a memcache wrapper to store today's tweet stats in cache. Tried to setup in pythonanywhere, due to user restrictions was unable to install memcache in pythonanywhere.
+  Added a memcache wrapper to store today's tweet stats in cache. Tried to setup in pythonanywhere, due to user restrictions was unable to install memcache in pythonanywhere.
+
+## day 36 (Feb 05, 2019)
+  Setup memcachier in production for india elections project.
