@@ -109,8 +109,16 @@
 ## day 31 (Jan 31, 2019)
   Added unittests to cover timeseries change for my india elections project. <https://github.com/v-adhithyan/india-elections>. Merged this branch with master.
   
-## day 32 (Feb 01, 2019)
+## day 33 (Feb 02, 2019)
   Fixed a memory leak bug in indiaelections project. This bug caused 500 error. The bug was due to matplot open frames which keeps references to all plots created using matplot untill explicitly closed.
   
-## day 33 (Feb 02, 2019)
+## day 34 (Feb 03, 2019)
   Modified india elections <https://github.com/v-adhithyan/india-elections> to use mysql in production. Will continue to use sqlite for testing and development.
+  
+
+## day  35 (Feb 04, 2019)
+  Added a memcache wrapper to store today's tweet stats in cache. Tried to setup in pythonanywhere, due to user restrictions was unable to install memcache in pythonanywhere.
+  
+## day 36 (Feb 05, 2019)
+  Did a little bit of googling and found out memcachier. Using this in production for memcache. Modified config file to use memcachier in production and successfully configured production to use memcachier.
+  
