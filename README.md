@@ -123,3 +123,6 @@
 
 ## day 36 (Feb 05, 2019)
   Setup memcachier in production for india elections project.
+  
+## day 37 (Feb 06, 2019)
+  Took a break from coding project and read pycoder weakly newsletter and tried stuff..
