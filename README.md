@@ -126,3 +126,15 @@
   
 ## day 37 (Feb 06, 2019)
   Took a break from coding project and read pycoder weakly newsletter and tried stuff..
+  
+## day 37 (Feb 07, 2019)
+  Added few methods to my memcache and endpoint to flush out cache to db.
+    
+## day 37 (Feb 08, 2019)
+  Initiated namma pollachi project.
+      
+## day 37 (Feb 09, 2019)
+  Added a endpoint to my india elections project to dynamically map candidates or query terms with alliance.
+        
+## day 37 (Feb 10, 2019)
+  Scraped of memcache from india elections as it would be a overkill.
