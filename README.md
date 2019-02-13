@@ -127,14 +127,25 @@
 ## day 37 (Feb 06, 2019)
   Took a break from coding project and read pycoder weakly newsletter and tried stuff..
   
-## day 37 (Feb 07, 2019)
+## day 38 (Feb 07, 2019)
   Added few methods to my memcache and endpoint to flush out cache to db.
     
-## day 37 (Feb 08, 2019)
+## day 39 (Feb 08, 2019)
   Initiated namma pollachi project.
       
-## day 37 (Feb 09, 2019)
+## day 40 (Feb 09, 2019)
   Added a endpoint to my india elections project to dynamically map candidates or query terms with alliance.
         
-## day 37 (Feb 10, 2019)
+## day 41 (Feb 10, 2019)
   Scraped of memcache from india elections as it would be a overkill.
+  
+## day 42 (Feb 11, 2019)
+  Read some wagtail tutorial for my upcoming nammapollachi project which is a blog site.
+   
+## day 43 (Feb 12, 2019)
+  Came up with some ideas for my 2016 project Autologout and opened issues in my Github repo.
+Tried out Instagram streetart detection with machine learning.
+
+## day 44 (Feb 13, 2019)
+  Added a permission class to my india-elections project which enables the job to be run only
+from the local machine.
