@@ -149,3 +149,7 @@ Tried out Instagram streetart detection with machine learning.
 ## day 44 (Feb 13, 2019)
   Added a permission class to my india-elections project which enables the job to be run only
 from the local machine.
+
+## day 45 (Feb 14, 2019)
+  Fixed a production error in my india elections project where db insert was getting timed out, due to which 500 was thrown.
+  
