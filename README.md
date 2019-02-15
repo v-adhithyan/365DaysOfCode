@@ -153,3 +153,6 @@ from the local machine.
 ## day 45 (Feb 14, 2019)
   Fixed a production error in my india elections project where db insert was getting timed out, due to which 500 was thrown.
   
+
+## day 46 (Feb 15, 2019)
+  Modified the code to show sentiment data in percentage for my india elections project.
