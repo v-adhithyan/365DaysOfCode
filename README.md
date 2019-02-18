@@ -153,9 +153,14 @@ from the local machine.
 ## day 45 (Feb 14, 2019)
   Fixed a production error in my india elections project where db insert was getting timed out, due to which 500 was thrown.
 
-
 ## day 46 (Feb 15, 2019)
   Modified the code to show sentiment data in percentage for my india elections project.
 
 ## day 47 (Feb 16, 2019)
   Added terms and conditions page to my india-elections project.
+
+## day 48 (Feb 17, 2019)
+  Started redesign of my AutoLogout (chrome extension) UI.
+
+## day 49 (Feb 18, 2019)
+  Learnt about python itertools and it's application. Tried out some functions from itertools.
