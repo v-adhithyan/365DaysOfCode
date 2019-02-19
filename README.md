@@ -164,3 +164,6 @@ from the local machine.
 
 ## day 49 (Feb 18, 2019)
   Learnt about python itertools and it's application. Tried out some functions from itertools.
+  
+## day 50 (Feb 19, 2019)
+  Completed design prototype of AutoLogout v2 version.
