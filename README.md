@@ -167,3 +167,6 @@ from the local machine.
   
 ## day 50 (Feb 19, 2019)
   Completed design prototype of AutoLogout v2 version.
+  
+## day 51 (Feb 20, 2019)
+  Added footer, updated navbar and linked tags to their wordcloud in my india-elections project.
