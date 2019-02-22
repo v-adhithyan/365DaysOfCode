@@ -173,3 +173,6 @@ from the local machine.
 
 ## day 52 (Feb 21, 2019)
   Did some initial coding on showing remaining time left in my AutoLogout project.
+
+## day 52 (Feb 22, 2019)
+  Started refactoring of my india-elections project.
