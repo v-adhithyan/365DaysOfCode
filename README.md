@@ -174,5 +174,11 @@ from the local machine.
 ## day 52 (Feb 21, 2019)
   Did some initial coding on showing remaining time left in my AutoLogout project.
 
-## day 52 (Feb 22, 2019)
+## day 53 (Feb 22, 2019)
   Started refactoring of my india-elections project.
+  
+## day 54 (Feb 23, 2019)
+  Project is getting bigger. So refactored generate view data method into 1. Previously it was duplicated into 2 methods one for generating india data and other for tn data with party names hardcoded. Now removed all hardcoded values and made the method generic and also fixed related test cases.
+
+## day 55 (Feb 24, 2019)
+  Added precommit hooks for flake8 check and added a management command to populate initial data for Alliance table to my india elections project.
