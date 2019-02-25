@@ -182,3 +182,7 @@ from the local machine.
 
 ## day 55 (Feb 24, 2019)
   Added precommit hooks for flake8 check and added a management command to populate initial data for Alliance table to my india elections project.
+  
+
+## day 56 (Feb 25, 2019)
+  Had two templates for rendering india and tamilnadu data. Refactored and converted to single template for my india-elections project.
