@@ -186,3 +186,6 @@ from the local machine.
 
 ## day 56 (Feb 25, 2019)
   Had two templates for rendering india and tamilnadu data. Refactored and converted to single template for my india-elections project.
+  
+## day 57 (Feb 26, 2019)
+  Added opinion poll to my india elections project.
