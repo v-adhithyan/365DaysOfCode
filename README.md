@@ -189,3 +189,6 @@ from the local machine.
   
 ## day 57 (Feb 26, 2019)
   Added opinion poll to my india elections project.
+  
+## day 58 (Feb 27, 2019)
+  Modified opinion poll to show states and their corresponding constituencies.
