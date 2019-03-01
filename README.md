@@ -195,3 +195,6 @@ from the local machine.
 
 ## day 59 (Feb 28, 2019)
   Removed some unwanted code and made few optimizations in my india elections project.
+
+## day 60 (March 01, 2019)
+  Added sentiment timeseries plot for my india elections project. (my birthday :cake:)
