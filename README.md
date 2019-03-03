@@ -199,6 +199,8 @@ from the local machine.
 ## day 60 (March 01, 2019)
   Added sentiment timeseries plot for my india elections project. (my birthday :cake:)
 
-
 ## day 61 (March 02, 2019)
   Started UI redesign of india elections project.
+  
+## day 62 (March 03, 2019)
+  Modified the code to use new design.
