@@ -176,20 +176,20 @@ from the local machine.
 
 ## day 53 (Feb 22, 2019)
   Started refactoring of my india-elections project.
-  
+z  
 ## day 54 (Feb 23, 2019)  
   Project is getting bigger. So refactored generate view data method into 1. Previously it was duplicated into 2 methods one for generating india data and other for tn data with party names hardcoded. Now removed all hardcoded values and made the method generic and also fixed related test cases.
 
 ## day 55 (Feb 24, 2019)
   Added precommit hooks for flake8 check and added a management command to populate initial data for Alliance table to my india elections project.
-  
+
 
 ## day 56 (Feb 25, 2019)
   Had two templates for rendering india and tamilnadu data. Refactored and converted to single template for my india-elections project.
-  
+
 ## day 57 (Feb 26, 2019)
   Added opinion poll to my india elections project.
-  
+
 ## day 58 (Feb 27, 2019)
   Modified opinion poll to show states and their corresponding constituencies.
 
@@ -201,6 +201,9 @@ from the local machine.
 
 ## day 61 (March 02, 2019)
   Started UI redesign of india elections project.
-  
+
 ## day 62 (March 03, 2019)
   Modified the code to use new design.
+
+## day 63 (March 04, 2019)
+  Brought the wordcloud page under new redesign
