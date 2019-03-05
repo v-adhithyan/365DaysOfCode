@@ -207,3 +207,6 @@ z
 
 ## day 63 (March 04, 2019)
   Brought the wordcloud page under new redesign
+
+## day 64 (March 05, 2019)
+  Came to know about statistics stdlib in python.
