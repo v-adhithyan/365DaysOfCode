@@ -210,3 +210,6 @@ z
 
 ## day 64 (March 05, 2019)
   Came to know about statistics stdlib in python.
+
+## day 65 (March 06, 2019)
+  Read pycoders weakly newsletter. (issue 357.)
