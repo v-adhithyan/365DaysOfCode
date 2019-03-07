@@ -213,3 +213,6 @@ z
 
 ## day 65 (March 06, 2019)
   Read pycoders weakly newsletter. (issue 357.)
+
+## day 66 (March 07, 2019)
+  Wrote a python script to set a bing daily image as a wallpaper for my ubuntu.
