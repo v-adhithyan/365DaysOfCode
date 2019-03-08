@@ -216,3 +216,6 @@ z
 
 ## day 66 (March 07, 2019)
   Wrote a python script to set a bing daily image as a wallpaper for my ubuntu.
+
+## day 68 (March 08, 2019)
+  Read about pathlib and os.path
