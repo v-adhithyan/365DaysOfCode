@@ -219,3 +219,6 @@ z
 
 ## day 68 (March 08, 2019)
   Read about pathlib and os.path
+  
+## day 69 (March 09, 2019)
+  Update the introduction content in my india elections project and added opinion poll in navbar menu.
