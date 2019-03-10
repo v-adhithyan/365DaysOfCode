@@ -222,3 +222,6 @@ z
   
 ## day 69 (March 09, 2019)
   Update the introduction content in my india elections project and added opinion poll in navbar menu.
+
+## day 70 (March 10, 2019)
+  Updated the backend code of india elections project. to filter tweetstats by today, yesterday, thisweek and all time.
