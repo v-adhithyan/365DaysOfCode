@@ -225,3 +225,6 @@ z
 
 ## day 70 (March 10, 2019)
   Updated the backend code of india elections project. to filter tweetstats by today, yesterday, thisweek and all time.
+  
+## day 71 (March 11, 2019)
+  Added the timerange filter to frontend. Now users can filter tweetstats by time from frontend.
