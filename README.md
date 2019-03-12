@@ -228,3 +228,6 @@ z
   
 ## day 71 (March 11, 2019)
   Added the timerange filter to frontend. Now users can filter tweetstats by time from frontend.
+  
+## day 72 (March 12, 2019)
+  Add some inference to win count prediction in both frontend and backend.
