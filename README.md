@@ -231,3 +231,6 @@ z
   
 ## day 72 (March 12, 2019)
   Add some inference to win count prediction in both frontend and backend.
+  
+## day 73 (March 13, 2019)
+  Officially completed india elections project. Added caching to views. Only bug fixes and no more daily development.
