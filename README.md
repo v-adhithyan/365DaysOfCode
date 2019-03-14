@@ -234,3 +234,6 @@ z
   
 ## day 73 (March 13, 2019)
   Officially completed india elections project. Added caching to views. Only bug fixes and no more daily development.
+
+## day 74 (March 14, 2019)
+  Tmp directory getting full in production of indiaelections. I have only 1 GB. So wrote a management command to clear tmp directory. It will be run as a cron job once everyday.
