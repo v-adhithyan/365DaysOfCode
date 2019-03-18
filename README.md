@@ -237,3 +237,15 @@ z
 
 ## day 74 (March 14, 2019)
   Tmp directory getting full in production of indiaelections. I have only 1 GB. So wrote a management command to clear tmp directory. It will be run as a cron job once everyday.
+
+## day 75 (March 15, 2019)
+  Read pycoders March 5, 2018 issue and tried some tutorial.
+
+## day 76 (March 16, 2019)
+  Added profile decorator to indiaelections to profile endpoints.
+
+## day 77 (March 17, 2019)
+  Added some twitter apis to get available trends in my india elections project.
+
+## day 78 (March 18, 2019)
+  Read pycoders March 12, 2018 issue.
