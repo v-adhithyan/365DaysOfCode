@@ -249,3 +249,6 @@ z
 
 ## day 78 (March 18, 2019)
   Read pycoders March 12, 2018 issue.
+
+## day 79 (March 19, 2019)
+  Added a bot to daily tweet about prediction results.
