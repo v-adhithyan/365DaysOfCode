@@ -252,3 +252,7 @@ z
 
 ## day 79 (March 19, 2019)
   Added a bot to daily tweet about prediction results.
+
+
+## day 80 (March 20, 2019)
+  Starting 30 days of Javascript challenge. 
