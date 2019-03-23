@@ -258,3 +258,9 @@ z
 
 ## day 81 (March 21, 2019)
   Added a management command to bootstrap development environment for india elections.
+
+## day 82 (March 22, 2019)
+  Completed day 1 of JS 30 challenge.
+
+## day 83 (March 23, 2019)
+  Completed day 2 of JS 30 Challenge.
