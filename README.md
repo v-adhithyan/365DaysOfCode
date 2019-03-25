@@ -264,3 +264,9 @@ z
 
 ## day 83 (March 23, 2019)
   Completed day 2 of JS 30 Challenge.
+
+## day 84 (March 24, 2019)
+  Added a helper to india election project to generate image with text.
+
+## day 85 (March 25, 2019)
+  Refactored job runner script in india elections project.
