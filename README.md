@@ -266,13 +266,10 @@ z
   Completed day 2 of JS 30 Challenge.
 
 ## day 84 (March 24, 2019)
-<<<<<<< HEAD
-  Added helper in my india election project to generate image with text. The idea is to tweet
-  prediction in a image format with hashtag and opinion poll link in text. This workaround is to
-  overcome twitter's 280 character limit for tweets.
-=======
   Added a helper to india election project to generate image with text.
 
 ## day 85 (March 25, 2019)
   Refactored job runner script in india elections project.
->>>>>>> a051288cf64d040c1bb08a8c7b7cfd4fd7a3be2e
+
+## day 86 (March 26, 2019)
+  Completed day 3 of JS 30 Challenge.
