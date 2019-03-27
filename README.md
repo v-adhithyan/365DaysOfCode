@@ -273,3 +273,6 @@ z
 
 ## day 86 (March 26, 2019)
   Completed day 3 of JS 30 Challenge.
+
+## day 87 (March 27, 2019)
+  Refined job access permission check in india-elections project.
