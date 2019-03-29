@@ -279,3 +279,6 @@ z
 
 ## day 88 (March 28, 2019)
   Completed day 4 of JS 30 Challenge.
+
+## day 89 (March 29, 2019)
+  Completed day 5 of JS 30 Challenge.
