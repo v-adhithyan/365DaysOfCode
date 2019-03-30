@@ -282,3 +282,7 @@ z
 
 ## day 89 (March 29, 2019)
   Completed day 5 of JS 30 Challenge.
+
+## day 90 (March 30, 2019)
+  Learnt about threading in python from pycoder's newsletter.
+
