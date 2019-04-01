@@ -289,3 +289,5 @@ z
 ## day 91 (March 31, 2019)
   Added a python script to convert a day to timestamp relative to today.
 
+## day 92 (April 1, 2019)
+  Completed day 6 of JS 30 Challenge.
