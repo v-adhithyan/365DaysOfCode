@@ -294,3 +294,6 @@ z
 
 ## day 93 (April 2, 2019)
   Completed day 7 of JS 30 Challenge.
+
+## day 94 (April 3, 2019)
+  Completed day 8 of JS 30 Challenge.
