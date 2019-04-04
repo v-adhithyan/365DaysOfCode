@@ -20,29 +20,58 @@
     }
 
     // Regular
+    console.log("adhithyan");
 
     // Interpolated
+    console.log("i am a %s string", "interpolated");
 
     // Styled
+    console.log("%c i am a string", "font-size:50px; background:yellow;");
 
     // warning!
+    console.warn("warning message");
 
     // Error :|
+    console.error("Ooops !Error");
 
     // Info
+    console.info("INFO: Javascript 30 day 9");
 
     // Testing
+    console.assert(3 === 4, "3 not equal to 4");
 
     // clearing
+    console.clear();
 
     // Viewing DOM Elements
+    let p = document.querySelector('p');
+    console.dir(p);
 
     // Grouping together
+    dogs.forEach(dog => {
+      console.group(`${dog.name}`)
+      console.log(`{dog.name} is {dog.age} years old`)
+      console.log(`{dog.name} is {dog.age * 7} years old`)
+      console.groupEnd(`{dog.name}`);
+    })
 
     // counting
+    console.count("AV");
+    console.count("AV");
+    console.count("AV");
+    console.count("AV");
+    console.count("AV");
 
     // timing
+    console.time('fetching data');
+    fetch('https://api.github.com/users/v-adhithyan')
+      .then(data => data.json())
+      .then(data => {
+        console.timeEnd("fetching data");
+        console.table(data);
+      })
 
+    console.table(dogs);
   </script>
 </body>
 
