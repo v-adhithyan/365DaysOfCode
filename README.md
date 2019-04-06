@@ -298,5 +298,12 @@ z
 ## day 94 (April 3, 2019)
   Completed day 8 of JS 30 Challenge.
 
-## day 95 (April 4, 2015)
+## day 95 (April 4, 2019)
   Completed day 9 of JS 30 Challenge.
+
+## day 96 (April 5, 2019)
+  Learnt about strategy pattern in python.
+
+## day 97 (April 6, 2019)
+  Completed day 10 of JS 30 Challenge.
+
