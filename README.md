@@ -307,3 +307,13 @@ z
 ## day 97 (April 6, 2019)
   Completed day 10 of JS 30 Challenge.
 
+## day 98 (April 7, 2019)
+  Started another project unspam. The goal is to clean gmail inbox periodically by automatically unsubscribing from non important/promotion/spam mails.
+
+## day 99 (April 8, 2019)
+  Started day 11 of JS 30 Challenge.
+
+## day 100 (April 9, 2019)
+  Completed day 11 of JS 30 Challenge.
+
+
