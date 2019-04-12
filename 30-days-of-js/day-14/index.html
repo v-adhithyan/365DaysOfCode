@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>JS Reference VS Copy</title>
+</head>
+<body>
+
+  <script>
+    // start with strings, numbers and booleans
+
+    // Let's say we have an array
+    const players = ['Wes', 'Sarah', 'Ryan', 'Poppy'];
+
+    
+    // and we want to make a copy of it.
+  const team = players;
+  //team[3] = 'Lux';
+   
+   // one method to copy the array
+   const team2 = players.slice();
+   team2[3] = 'Lux';
+
+    const team3 = [].concat(players);
+
+    // es6 spread to copu
+    const team4 = [...players]
+
+    const team5 = Array.from(players);
+
+    const person = {
+      name: 'Wes Bos',
+      age: 80
+    };
+
+    //const captain = person;
+    //captain.number = 99;
+
+    const cap2 = Object.assign({}, person, { number: 99});
+    const cap3 = {...person};
+
+    const ad = {
+      name: 'Adhi',
+      age: 26,
+      social: {
+        twitter: '@AdhithyanVijay',
+        github: 'v-adhithyan'
+      }
+    }
+
+    const dev = Object.assign({}, ad);
+    const dev2 = JSON.parse(JSON.stringify(dev));
+  </script>
+
+</body>
+</html>

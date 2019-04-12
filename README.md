@@ -321,3 +321,6 @@ z
 
 ## day 101 (April 11, 2019)
   Completed day 13 of JS 30 Challenge.
+
+## day 102 (April 12, 2019)
+  Completed day 14 of JS 30 Challenge.
