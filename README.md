@@ -327,3 +327,7 @@ z
 
 ## day 103 (April 13, 2019)
   Wrote a test wrapper for rest framework serializers wherein serializer and data is enough to run validations for a serializer
+
+## day 104 (April 14, 2019)
+  Coded a integration test wrapper for django rest framework, where just valid and invalid data is enough
+  to test a viewset.
