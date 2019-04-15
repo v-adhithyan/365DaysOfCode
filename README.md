@@ -331,3 +331,6 @@ z
 ## day 104 (April 14, 2019)
   Coded a integration test wrapper for django rest framework, where just valid and invalid data is enough
   to test a viewset.
+
+## day 105 (April 15, 2019)
+  Completed day 15 of JS 30 Challenge.
