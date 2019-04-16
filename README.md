@@ -334,3 +334,6 @@ z
 
 ## day 105 (April 15, 2019)
   Completed day 15 of JS 30 Challenge.
+
+## day 106 (April 16, 2019)
+  Modified my python script to organize movies based on language.

@@ -2,6 +2,7 @@ import argparse
 import os
 import sys
 from pathlib import Path, PurePath
+import shutil
 
 GREEN = "\033[1;31m"
 BLUE = "\033[1;34m"
@@ -27,12 +28,37 @@ def rename_files(path):
     files = (f for f in Path(".").iterdir())
     for f in files:
         filename = str(f.name)
-        if "tamilrockers" in filename.lower():
+        if "tamilrock" in filename.lower():
             new_filename = "".join(filename.split("-")[1:]).strip()
             target = Path(PurePath(new_filename))
             print(filename)
             f.rename(target)
-            success(msg="Renamed {} ==> {}".format(filename, new_filename))
+            success(f"Renamed {filename} ==> {new_filename}")
+
+
+def get_or_create_directories(path, languages):
+    os.chdir(path)
+    for lang_dir in languages:
+        path = Path(lang_dir)
+        if not path.exists():
+            path.mkdir()
+
+
+def organize(path):
+    languages = ["tamil", "telugu", "malayalam",
+                 "kannada", "others", "hindi", "english"]
+    get_or_create_directories(path, languages)
+    os.chdir(path)
+
+    files = (f for f in Path(".").iterdir())
+    for f in files:
+        if not f.is_dir():
+            for lang in languages:
+                fname = str(f.name)
+                if lang in fname.lower():
+                    print(f"{fname} moved to => {lang}")
+                    shutil.move(fname, lang)
+                    break
 
 
 def main():
@@ -43,6 +69,7 @@ def main():
         path = args.path
         path = os.path.expanduser(path)
         rename_files(path)
+        organize(path)
     except BaseException:
         alert(msg="path not found")
         raise
