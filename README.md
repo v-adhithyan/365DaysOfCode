@@ -340,3 +340,7 @@ z
 
 ## day 107 (April 17, 2019)
   Completed day 16 of JS 30 challenge.
+
+## day 108 (April 18, 2019)
+  Added windows support for reddit daily wallpaper setter.
+  

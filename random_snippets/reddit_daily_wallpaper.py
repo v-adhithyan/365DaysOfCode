@@ -1,7 +1,9 @@
 #!/home/adhi/.pyenv/shims/python3
+import ctypes
 import os
 import platform
 import random
+import shutil
 from collections import namedtuple
 from tempfile import NamedTemporaryFile
 from urllib.request import urlretrieve
@@ -11,6 +13,17 @@ from bs4 import BeautifulSoup
 
 wallpaper = namedtuple("wallpaper", "src title")
 URL = "https://bing.wallpaper.pics/"
+
+
+def get_image_for_windows(image):
+    old_file = image.name
+    new_file = old_file + ".png"
+    shutil.copy(old_file, new_file)
+    return new_file
+
+
+def cleanup(f):
+    pass
 
 
 def pick_a_photo():
@@ -33,6 +46,12 @@ def set_wallpaper():
     elif system_os == "darwin":  # mac
         os.system(
             "osascript -e 'tell application \"Finder\" to set desktop picture to POSIX file \"{}\"'".format(img.name))
+    elif system_os == "windows":
+        image = get_image_for_windows(img)
+        SET_WALLPAPER = 20
+        ctypes.windll.user32.SystemParametersInfoW(
+            SET_WALLPAPER, 0, image, 3)
+        cleanup(image)
     else:
         raise OSError("Unsupported OS.")
 
