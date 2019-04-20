@@ -346,3 +346,6 @@ z
   
 ## day 109 (April 19, 2019)
   Read pycoder newsletter.
+
+## day 110 (April 20, 2019)
+  Started with day 17 of JS 30 challenge.
