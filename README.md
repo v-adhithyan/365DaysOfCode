@@ -349,3 +349,6 @@ z
 
 ## day 110 (April 20, 2019)
   Started with day 17 of JS 30 challenge.
+
+## day 111 (April 21, 2019)
+  Completed JS 30 day 17.
