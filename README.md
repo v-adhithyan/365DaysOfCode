@@ -352,3 +352,6 @@ z
 
 ## day 111 (April 21, 2019)
   Completed JS 30 day 17.
+
+## day 112 (April 22, 2019)
+  Fixed a bug in android ticketing app where the application was crashing when trying to connect with bluetooth printer.
