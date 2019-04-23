@@ -355,3 +355,6 @@ z
 
 ## day 112 (April 22, 2019)
   Fixed a bug in android ticketing app where the application was crashing when trying to connect with bluetooth printer.
+
+## day 113 (April 23, 2019)
+  Added check or request permissions to android ticketing app.
