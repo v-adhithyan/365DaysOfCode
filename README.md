@@ -358,3 +358,6 @@ z
 
 ## day 113 (April 23, 2019)
   Added check or request permissions to android ticketing app.
+
+## day 114 (April 24, 2019)
+  Show toast message when vehicle number is empty or less than 4 characters. Bump gradle to latest version and use jdk 8 in ticketing app.
