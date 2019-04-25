@@ -361,3 +361,6 @@ z
 
 ## day 114 (April 24, 2019)
   Show toast message when vehicle number is empty or less than 4 characters. Bump gradle to latest version and use jdk 8 in ticketing app.
+
+## day 115 (April 25, 2019)
+  Improved error messages and optimized connecting with bluetooth printer for ticketing app.
