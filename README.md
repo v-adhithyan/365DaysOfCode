@@ -364,3 +364,6 @@ z
 
 ## day 115 (April 25, 2019)
   Improved error messages and optimized connecting with bluetooth printer for ticketing app.
+
+## day 116 (April 26, 2019)
+  Added a flag to check and connect with printer, if not connected for my ticketing app. (ordered a macbook :smile: )
