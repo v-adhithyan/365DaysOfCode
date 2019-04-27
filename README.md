@@ -367,3 +367,7 @@ z
 
 ## day 116 (April 26, 2019)
   Added a flag to check and connect with printer, if not connected for my ticketing app. (ordered a macbook :smile: )
+
+## day 117 (April 27, 2019)
+  Added a alert to ask for confirmation before opening shift in android ticketing app.
+
