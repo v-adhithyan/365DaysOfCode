@@ -371,3 +371,5 @@ z
 ## day 117 (April 27, 2019)
   Added a alert to ask for confirmation before opening shift in android ticketing app.
 
+## day 118 (April 28, 2019)
+  Do not close ticket again, if it already closed (ticketing app).
