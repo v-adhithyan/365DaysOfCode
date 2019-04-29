@@ -373,3 +373,6 @@ z
 
 ## day 118 (April 28, 2019)
   Do not close ticket again, if it already closed (ticketing app).
+
+## day 119 (April 29, 2019)
+  Added a context menu to close ticket from vehicle search activity.
