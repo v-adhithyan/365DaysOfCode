@@ -376,3 +376,6 @@ z
 
 ## day 119 (April 29, 2019)
   Added a context menu to close ticket from vehicle search activity.
+
+## day 120 (April 30, 2019)
+  Modified close ticket function to process close using either token number or using table primary key (ticketing app).
