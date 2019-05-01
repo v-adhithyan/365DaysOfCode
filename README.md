@@ -379,3 +379,7 @@ z
 
 ## day 120 (April 30, 2019)
   Modified close ticket function to process close using either token number or using table primary key (ticketing app).
+
+## day 121 (April 31, 2019)
+  Started refactoring of ticketing app. Moved hardcoded strings to strings.xml for easy i18n, refactored db util and used common functions
+  for creating progress dialog and showing toast.
