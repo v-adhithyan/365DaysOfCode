@@ -22,6 +22,14 @@ def get_image_for_windows(image):
     return new_file
 
 
+def save_image_to_pictures(image):
+    n = random.randint(1, 1000)
+    os.system(f"rm ~/Pictures/py_daily_wallpaper*.png")
+    new_file = os.path.expanduser(f"~/Pictures/py_daily_wallpaper_{n}.png")
+    shutil.copy(image.name, new_file)
+    return new_file
+
+
 def cleanup(f):
     pass
 
@@ -44,8 +52,9 @@ def set_wallpaper():
         os.system(
             "/usr/bin/gsettings set org.gnome.desktop.background picture-uri {}".format(img.name))
     elif system_os == "darwin":  # mac
+        mac_image = save_image_to_pictures(img)
         os.system(
-            "osascript -e 'tell application \"Finder\" to set desktop picture to POSIX file \"{}\"'".format(img.name))
+            "osascript -e 'tell application \"Finder\" to set desktop picture to POSIX file \"{}\"'".format(mac_image))
     elif system_os == "windows":
         image = get_image_for_windows(img)
         SET_WALLPAPER = 20

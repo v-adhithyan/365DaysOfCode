@@ -386,3 +386,6 @@ z
 
 ## day 122 (May 2, 2019)
   Moved print ticket and connect printer to async task. Used a common function to create and show alert dialog.
+
+## day 123 (May 3, 2019)
+  Move worker thread, that listens for data to async task and refactored connect printer method.
