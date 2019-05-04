@@ -389,3 +389,6 @@ z
 
 ## day 123 (May 3, 2019)
   Move worker thread, that listens for data to async task and refactored connect printer method.
+
+## day 124 (May 4, 2019)
+  Completed refactoring by refactoring generateTicket method, SearchActivity and SummaryActivity.
