@@ -392,3 +392,6 @@ z
 
 ## day 124 (May 4, 2019)
   Completed refactoring by refactoring generateTicket method, SearchActivity and SummaryActivity.
+
+## day 125 (May 5, 2019)
+  Modified code to save token entry to db, only when ticket printing is success.
