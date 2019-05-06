@@ -395,3 +395,6 @@ z
 
 ## day 125 (May 5, 2019)
   Modified code to save token entry to db, only when ticket printing is success.
+
+## day 126 (May 6, 2019)
+  Added a new launcher icon and changed a toast message in search activity.
