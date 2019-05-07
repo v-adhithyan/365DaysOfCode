@@ -398,3 +398,6 @@ z
 
 ## day 126 (May 6, 2019)
   Added a new launcher icon and changed a toast message in search activity.
+
+## day 127 (May 7, 2019)
+  Added tamil translation and moved some missed hardcoded strings to strings.xml
