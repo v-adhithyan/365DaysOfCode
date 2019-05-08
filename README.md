@@ -401,3 +401,7 @@ z
 
 ## day 127 (May 7, 2019)
   Added tamil translation and moved some missed hardcoded strings to strings.xml
+
+## day 128 (May 8, 2019)
+  Started with unit testing for ticketing app. Learnt about android unit testing and wrote unit tests.
+  
