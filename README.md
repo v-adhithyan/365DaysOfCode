@@ -404,4 +404,6 @@ z
 
 ## day 128 (May 8, 2019)
   Started with unit testing for ticketing app. Learnt about android unit testing and wrote unit tests.
-  
+
+## day 129 (May 9, 2019)
+  Completed unit tests for DBHelper class in ticketing app.
