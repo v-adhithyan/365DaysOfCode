@@ -408,6 +408,8 @@ z
 ## day 129 (May 9, 2019)
   Completed unit tests for DBHelper class in ticketing app.
 
-## day 130
+## day 130 (May 10, 2019)
   Added unit tests for Extensions in ticketing app.
 
+## day 131 (May 11, 2019)
+  Added integration tests for SearchActivity.
