@@ -413,3 +413,6 @@ z
 
 ## day 131 (May 11, 2019)
   Added integration tests for SearchActivity.
+
+## day 132 (May 12, 2019)
+  Added integration tests for PinActivity.
