@@ -416,3 +416,9 @@ z
 
 ## day 132 (May 12, 2019)
   Added integration tests for PinActivity.
+
+## day 133 (May 13, 2019)
+  Read pycoders newsletter and tried some new stuff.
+
+## day 134 (May 14, 2019)
+  Started with UI redesign of my ticketing app.
