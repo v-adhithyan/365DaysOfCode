@@ -422,3 +422,6 @@ z
 
 ## day 134 (May 14, 2019)
   Started with UI redesign of my ticketing app.
+
+## day 135 (May 15, 2019)
+  Refactored Shift activity and added unit tests.
