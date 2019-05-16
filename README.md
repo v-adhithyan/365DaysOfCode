@@ -425,3 +425,6 @@ z
 
 ## day 135 (May 15, 2019)
   Refactored Shift activity and added unit tests.
+
+## day 136 (May 16, 2019)
+  Changed UX and added new font in ticketing app.
