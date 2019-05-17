@@ -428,3 +428,6 @@ z
 
 ## day 136 (May 16, 2019)
   Changed UX and added new font in ticketing app.
+
+## day 137 (May 17, 2019)
+  Added mechanism to prevent clearing app data.
