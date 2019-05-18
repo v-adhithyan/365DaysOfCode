@@ -431,3 +431,6 @@ z
 
 ## day 137 (May 17, 2019)
   Added mechanism to prevent clearing app data.
+
+## day 138 (May 18, 2019)
+  Added functionality to log number of incorrect password attempts.
