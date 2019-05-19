@@ -434,3 +434,6 @@ z
 
 ## day 138 (May 18, 2019)
   Added functionality to log number of incorrect password attempts.
+
+## day 139 (May 19, 2019)
+  Added support to change manage password in ticketing app.
