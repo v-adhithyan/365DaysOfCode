@@ -437,3 +437,6 @@ z
 
 ## day 139 (May 19, 2019)
   Added support to change manage password in ticketing app.
+
+## day 140 (May 20, 2019)
+  Show ticket details, whem closing ticket.
