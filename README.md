@@ -440,3 +440,6 @@ z
 
 ## day 140 (May 20, 2019)
   Show ticket details, whem closing ticket.
+
+## day 141 (May 21, 2019)
+  Show payment due, when closing ticket.
