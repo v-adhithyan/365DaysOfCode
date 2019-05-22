@@ -443,3 +443,6 @@ z
 
 ## day 141 (May 21, 2019)
   Show payment due, when closing ticket.
+
+## day 142 (May 22, 2019)
+  Added manage menu to backup data to file and email in ticketing app.
