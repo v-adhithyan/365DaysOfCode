@@ -446,3 +446,6 @@ z
 
 ## day 142 (May 22, 2019)
   Added manage menu to backup data to file and email in ticketing app.
+
+## day 143 (May 23, 2019)
+  Show overstay count in manage summary.
