@@ -452,3 +452,15 @@ z
 
 ## day 144 (May 24, 2019)
   Completed day 18 of Javascript 30.
+
+## day 145 (May 25, 2019)
+  Completed day 19 of Javascript 30.
+
+## day 146 (May 26, 2019)
+  Changed some ouput ticket data in ticketing app.
+
+## day 147 (May 27, 2019)
+  Completed day 20 of Javascript 30.
+
+## day 148 (May 28, 2019)
+  Completed day 21 of Javascript 30.
