@@ -464,3 +464,6 @@ z
 
 ## day 148 (May 28, 2019)
   Completed day 21 of Javascript 30.
+
+## day 149 (May 29, 2019)
+  Started with edge detection for my document scanner app.
