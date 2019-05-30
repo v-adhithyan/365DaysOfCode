@@ -467,3 +467,6 @@ z
 
 ## day 149 (May 29, 2019)
   Started with edge detection for my document scanner app.
+
+## day 150 (May 30, 2019)
+  Made some progress in document detection. Have to improve.
