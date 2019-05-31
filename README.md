@@ -470,3 +470,7 @@ z
 
 ## day 150 (May 30, 2019)
   Made some progress in document detection. Have to improve.
+
+## day 151 (May 31, 2019)
+  Finally stablized the document detection algorithm for ticketing app.
+
