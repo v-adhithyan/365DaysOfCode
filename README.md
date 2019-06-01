@@ -474,3 +474,5 @@ z
 ## day 151 (May 31, 2019)
   Finally stablized the document detection algorithm for ticketing app.
 
+## day 152 (June 01, 2019)
+  Completed day 22 of Javascript 30
