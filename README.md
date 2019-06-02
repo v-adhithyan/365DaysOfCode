@@ -476,3 +476,6 @@ z
 
 ## day 152 (June 01, 2019)
   Completed day 22 of Javascript 30
+
+## day 153 (June 02, 2019)
+  Completed day 23 of Javascript 30.
