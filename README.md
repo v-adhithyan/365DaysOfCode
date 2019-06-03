@@ -479,3 +479,6 @@ z
 
 ## day 153 (June 02, 2019)
   Completed day 23 of Javascript 30.
+
+## day 154 (June 03, 2019)
+  Successfully completed adding document detection to scan2pdf.
