@@ -482,3 +482,9 @@ z
 
 ## day 154 (June 03, 2019)
   Successfully completed adding document detection to scan2pdf.
+
+## day 155 (June 04, 2019)
+  Read pycoders tutorial. #May last week issue
+
+## day 156 (June 05, 2019)
+  Learnt about django templates, static files rendering.
