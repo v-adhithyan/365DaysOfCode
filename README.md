@@ -488,3 +488,9 @@ z
 
 ## day 156 (June 05, 2019)
   Learnt about django templates, static files rendering.
+
+## day 157 (June 06, 2019)
+  Got to know about django print sql and tracing sql queries.
+
+## day 158 (June 07, 2019)
+  Started to learn about *args in python.
