@@ -494,3 +494,6 @@ z
 
 ## day 158 (June 07, 2019)
   Started to learn about *args in python.
+
+## day 159 (June 08, 2019)
+  Learnt about **kwargs in python.
