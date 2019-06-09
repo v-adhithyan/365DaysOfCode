@@ -497,3 +497,6 @@ z
 
 ## day 159 (June 08, 2019)
   Learnt about **kwargs in python.
+
+## day 160 (June 09, 2019)
+  Complete day 24 of Javascript 30.
