@@ -501,5 +501,9 @@ z
 ## day 160 (June 09, 2019)
   Complete day 24 of Javascript 30.
 
-## day 161 (June 09, 2019)
+## day 161 (June 10, 2019)
   Complete day 25 of Javascript 30.
+
+## day 162 (June 11, 2019)
+  Started a new Django project to support android ticketing app.
+
