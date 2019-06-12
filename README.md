@@ -507,3 +507,6 @@ z
 ## day 162 (June 11, 2019)
   Started a new Django project to support android ticketing app.
 
+## day 163 (June 12, 2019)
+  Added token model and dummy post save signal to print token.
+
