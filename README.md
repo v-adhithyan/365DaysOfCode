@@ -510,3 +510,6 @@ z
 ## day 163 (June 12, 2019)
   Added token model and dummy post save signal to print token.
 
+## day 164 (June 13, 2019)
+  Show overstay details if out time is entered for a token.
+
