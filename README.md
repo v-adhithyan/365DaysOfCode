@@ -513,3 +513,7 @@ z
 ## day 164 (June 13, 2019)
   Show overstay details if out time is entered for a token.
 
+## day 165 (June 14, 2019)
+  Add base printer setup code for ticket web.
+
+
