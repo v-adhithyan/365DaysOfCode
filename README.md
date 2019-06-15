@@ -516,4 +516,6 @@ z
 ## day 165 (June 14, 2019)
   Add base printer setup code for ticket web.
 
+## day 166 (June 15, 2019)
+  Add delete permission only for super user, use presave signal to prevent adding out time second time.
 
