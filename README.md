@@ -522,3 +522,9 @@ z
 ## day 167 (June 16, 2019)
   Added README.md for ticket-web.
 
+## day 168 (June 17, 2019)
+  Add Shift model in ticket-web.
+
+## day 169 (June 18, 2019)
+  Add summary action to print shift summary.
+
