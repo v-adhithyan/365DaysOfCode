@@ -528,3 +528,9 @@ z
 ## day 169 (June 18, 2019)
   Add summary action to print shift summary.
 
+## day 170 (June 19, 2019)
+  Integrated win32api in ticket-web project.
+
+## day 171 (June 20, 2019)
+  Move printing to background job in windows in local machine using sqlalchemy.
+
