@@ -534,3 +534,5 @@ z
 ## day 171 (June 20, 2019)
   Move printing to background job in windows in local machine using sqlalchemy.
 
+## day 172 (June 21, 2019)
+  Add admin action to download shift data as csv.
