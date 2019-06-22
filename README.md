@@ -536,3 +536,7 @@ z
 
 ## day 172 (June 21, 2019)
   Add admin action to download shift data as csv.
+
+## day 173 (June 22, 2019)
+  Add tamil translation to ticket-web.
+
