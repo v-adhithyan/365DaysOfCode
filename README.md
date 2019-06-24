@@ -540,3 +540,8 @@ z
 ## day 173 (June 22, 2019)
   Add tamil translation to ticket-web.
 
+## day 174 (June 23, 2019)
+  Add admin action to print today's shift data.
+
+## day 175 (June 24, 2019)
+  Complete JS 30 - day 26.
