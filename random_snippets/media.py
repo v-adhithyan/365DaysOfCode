@@ -47,6 +47,9 @@ def get_or_create_directories(path, languages):
 def organize(path):
     languages = ["tamil", "telugu", "malayalam",
                  "kannada", "others", "hindi", "english"]
+    series = {
+        'season': 'series'
+    }
     get_or_create_directories(path, languages)
     os.chdir(path)
 
