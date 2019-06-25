@@ -545,3 +545,6 @@ z
 
 ## day 175 (June 24, 2019)
   Complete JS 30 - day 26.
+
+## day 176 (June 25, 2019)
+  Add account model to ticket web.
