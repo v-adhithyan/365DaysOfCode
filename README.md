@@ -548,3 +548,6 @@ z
 
 ## day 176 (June 25, 2019)
   Add account model to ticket web.
+
+## day 177 (June 26, 2019)
+  Changed account model and linked with token model.
