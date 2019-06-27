@@ -551,3 +551,7 @@ z
 
 ## day 177 (June 26, 2019)
   Changed account model and linked with token model.
+
+## day 178 (June 27, 2019)
+  send sms whenever a token is created.
+  
