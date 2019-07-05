@@ -563,3 +563,10 @@ z
 
 ## day 181 (June 30, 2019)
   Send sms using msg 91 api and other minor changes.
+
+## day 182 - 186 (July 01, 2019 - July 04, 2019)
+  Some changes to ticket-web.
+
+## day 187 (July 05, 2019)
+  Complete JS 30 day 27.
+
