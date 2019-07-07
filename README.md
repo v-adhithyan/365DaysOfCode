@@ -572,3 +572,6 @@ z
 
 ## day 188 (July 06, 2019)
   Complete JS 30 day 28.
+
+## day 189 (July 07, 2019)
+  Learnt some css stuff from medium.
