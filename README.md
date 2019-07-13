@@ -575,3 +575,13 @@ z
 
 ## day 189 (July 07, 2019)
   Learnt some css stuff from medium.
+
+## day 190 - 193 (July 08, 2019 - July 11, 2019)
+  Worked on a twitter bot.
+
+## day 194 (July 12, 2019)
+  Complete JS 30 day 29.
+
+## day 195 (July 13, 2019)
+  Learnt some css.
+
