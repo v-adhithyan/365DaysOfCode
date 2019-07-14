@@ -585,3 +585,6 @@ z
 ## day 195 (July 13, 2019)
   Learnt some css.
 
+## day 196 (July 14, 2019)
+  Completed JS 30 day 30.
+
