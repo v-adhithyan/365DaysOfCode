@@ -588,3 +588,11 @@ z
 ## day 196 (July 14, 2019)
   Completed JS 30 day 30.
 
+## day 197 (July 15, 2019)
+  Learnt about command pattern in python.
+
+## day 198 (July 16, 2019)
+  Learnt about singleton pattern in python.
+
+## day 199 (July 17, 2019)
+  Learnt about creational patterns in GOF in general.
