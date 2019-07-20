@@ -1,5 +1,10 @@
 # 365  Days of code
 
+## Todo projects list
+
+- [ ] Simple snake game in python without any external lib
+- [ ] Chrome extension using localstorage to highlight stuff.
+
 ## Jan 1, 2019
   *I am publicly committing to 365 days of code. Everyday I will code for atleast one hour or learn some new stuff related to coding and log my progress here.*
 
@@ -596,3 +601,12 @@ z
 
 ## day 199 (July 17, 2019)
   Learnt about creational patterns in GOF in general.
+
+## day 200 (July 18, 2019)
+  Learnt about facade pattern.
+
+## day 201 (July 19, 2019)
+  Started dev work for retro snake game in python.
+
+## day 202 (July 20, 2019)
+  Use arrow keys to move snake and eat food.
