@@ -610,3 +610,6 @@ z
 
 ## day 202 (July 20, 2019)
   Use arrow keys to move snake and eat food.
+
+## day 203 (July 21, 2019)
+  Show score board in snake game.
