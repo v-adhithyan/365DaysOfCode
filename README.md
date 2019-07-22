@@ -613,3 +613,6 @@ z
 
 ## day 203 (July 21, 2019)
   Show score board in snake game.
+
+## day 204 (July 22, 2019)
+  Add edge detection to snake game.
