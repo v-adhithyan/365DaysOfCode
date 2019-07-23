@@ -616,3 +616,6 @@ z
 
 ## day 204 (July 22, 2019)
   Add edge detection to snake game.
+
+## day 205 (July 23, 2019)
+  Add auto move functionality to snake game.
