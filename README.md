@@ -619,3 +619,6 @@ z
 
 ## day 205 (July 23, 2019)
   Add auto move functionality to snake game.
+
+## day 206 (July 24, 2019)
+  Add best score to snake game.
