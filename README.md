@@ -622,3 +622,6 @@ z
 
 ## day 206 (July 24, 2019)
   Add best score to snake game.
+
+## day 207 (July 25, 2019)
+  Read pycoder newsletter.
