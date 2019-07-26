@@ -625,3 +625,6 @@ z
 
 ## day 207 (July 25, 2019)
   Read pycoder newsletter.
+
+## day 208 (July 26, 2019)
+  Started with snake size increasing based on score for snake game.
