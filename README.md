@@ -628,3 +628,9 @@ z
 
 ## day 208 (July 26, 2019)
   Started with snake size increasing based on score for snake game.
+
+## day 209, 210 (July 27,28 2019)
+  Work on snake size
+
+## day 211-213 (July 29-31, 2019)
+  Read some tutorials on good coding practices.
