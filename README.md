@@ -634,3 +634,6 @@ z
 
 ## day 211-213 (July 29-31, 2019)
   Read some tutorials on good coding practices.
+
+## day 214 (August 01, 2019)
+  Tried a sample django docker app with nginx config.
