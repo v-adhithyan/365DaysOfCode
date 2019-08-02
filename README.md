@@ -637,3 +637,6 @@ z
 
 ## day 214 (August 01, 2019)
   Tried a sample django docker app with nginx config.
+
+## day 215 (August 02, 2019)
+  Tried a sample flask SQLAlchemy crud app.
