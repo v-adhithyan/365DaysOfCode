@@ -640,3 +640,7 @@ z
 
 ## day 215 (August 02, 2019)
   Tried a sample flask SQLAlchemy crud app.
+
+## day 216 (August 03, 2019)
+  Read pycoder's tutorial.
+  
