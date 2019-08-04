@@ -643,4 +643,6 @@ z
 
 ## day 216 (August 03, 2019)
   Read pycoder's tutorial.
-  
+
+## day 217 (August 04, 2019)
+  Checked out the source code of grid studio PYTHON.
