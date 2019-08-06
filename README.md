@@ -646,3 +646,9 @@ z
 
 ## day 217 (August 04, 2019)
   Checked out the source code of grid studio PYTHON.
+
+## day 218 (August 05, 2019)
+  Started working on highlight chrome extension.
+
+## day 219 (August 06, 2019)
+  Highlight-save selection to localstorage.
