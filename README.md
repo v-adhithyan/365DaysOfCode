@@ -652,3 +652,15 @@ z
 
 ## day 219 (August 06, 2019)
   Highlight-save selection to localstorage.
+
+## day 220, 221 (August 07,08 2019)
+  Revisited itertools of python.
+
+## day 222 (August 09, 2019)
+  Add selected word to existing saved content of current page.
+
+## day 223 (August 10, 2019)
+  Reused some code from word-highlighter github extension for my highlight chrome extension.
+
+## day 224 (August 11, 2019)
+  Read about quopri, binascii and base64 libraries in python.
