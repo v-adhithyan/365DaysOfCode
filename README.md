@@ -664,3 +664,6 @@ z
 
 ## day 224 (August 11, 2019)
   Read about quopri, binascii and base64 libraries in python.
+  
+## day 225 (August 12, 2019)
+  Started with unspam project. Added base gmail api wrapper.
