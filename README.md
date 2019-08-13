@@ -667,3 +667,6 @@ z
   
 ## day 225 (August 12, 2019)
   Started with unspam project. Added base gmail api wrapper.
+
+## day 226 (August 13, 2019)
+  Unspam, add gmail api.
