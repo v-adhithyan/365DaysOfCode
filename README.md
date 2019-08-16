@@ -670,3 +670,9 @@ z
 
 ## day 226 (August 13, 2019)
   Unspam, add gmail api.
+
+## day 227, 228 (August 14, 15, 2019)
+  Learn about stack and queues.
+  
+## day 229 (August 16, 2019)
+  Read pycoders newsletter.
