@@ -55,13 +55,15 @@ def organize(path):
 
     files = (f for f in Path(".").iterdir())
     for f in files:
-        if not f.is_dir():
-            for lang in languages:
-                fname = str(f.name)
-                if lang in fname.lower():
-                    print(f"{fname} moved to => {lang}")
+        for lang in languages:
+            fname = str(f.name)
+            if lang in fname.lower():
+                if not f.is_dir():
                     shutil.move(fname, lang)
-                    break
+                    print(f"{fname} moved to => {lang}")
+                elif f.is_dir() and fname.lower() not in languages:
+                    os.system(f'mv "{f}" {lang}/')
+                    print(f"{fname} moved to => {lang}")
 
 
 def main():

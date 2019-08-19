@@ -676,3 +676,10 @@ z
   
 ## day 229 (August 16, 2019)
   Read pycoders newsletter.
+  
+## day 230, 231 (August 17, 18 2019)
+  Read about bit manipulation.
+
+## day 232 (August 19, 2019)
+  Refactored scan2pdf android app.
+
