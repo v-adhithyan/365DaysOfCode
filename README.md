@@ -682,4 +682,8 @@ z
 
 ## day 232 (August 19, 2019)
   Refactored scan2pdf android app.
+  
+## day 233 (August 20, 2019)
+  Add runtime permission check for Scan2Pdf app.
+
 
