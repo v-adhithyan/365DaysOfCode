@@ -686,4 +686,6 @@ z
 ## day 233 (August 20, 2019)
   Add runtime permission check for Scan2Pdf app.
 
+## day 234 (August 21, 2019)
+  Bugfix - Scan2Pdf - Correct document outline to fall inside image.
 
