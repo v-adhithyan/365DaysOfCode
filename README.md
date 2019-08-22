@@ -689,3 +689,5 @@ z
 ## day 234 (August 21, 2019)
   Bugfix - Scan2Pdf - Correct document outline to fall inside image.
 
+## day 235 (August 22, 2019)
+  Drag and crop functionality added to Scan2Pdf.
