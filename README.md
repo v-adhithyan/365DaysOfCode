@@ -691,3 +691,6 @@ z
 
 ## day 235 (August 22, 2019)
   Drag and crop functionality added to Scan2Pdf.
+
+## day 236 (August 23, 2019)
+  Bugfix: Save pdf crash and also add cropped image to images list (Scan2Pdf)
