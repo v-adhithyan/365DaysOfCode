@@ -694,3 +694,9 @@ z
 
 ## day 236 (August 23, 2019)
   Bugfix: Save pdf crash and also add cropped image to images list (Scan2Pdf)
+  
+## day 237 (August 24, 2019)
+  Added menu to choose new scan either from camera or gallery.
+ 
+## day 238 (August 25, 2019)
+  Fix merge conflict and review the pick image and manual crop code.
