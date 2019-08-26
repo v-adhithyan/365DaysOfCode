@@ -700,3 +700,6 @@ z
  
 ## day 238 (August 25, 2019)
   Fix merge conflict and review the pick image and manual crop code.
+
+## day 239 (August 26, 2019)
+  Show all pdf files created using the app in MainActivity.
