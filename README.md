@@ -703,3 +703,6 @@ z
 
 ## day 239 (August 26, 2019)
   Show all pdf files created using the app in MainActivity.
+
+## day 240 (August 27, 2019)
+  Fix app crash when clicking file in MainActivity (Scan2Pdf)
