@@ -706,3 +706,6 @@ z
 
 ## day 240 (August 27, 2019)
   Fix app crash when clicking file in MainActivity (Scan2Pdf)
+
+## day 241 (August 28, 2019)
+  Add base context menu to pdf list.
