@@ -709,3 +709,7 @@ z
 
 ## day 241 (August 28, 2019)
   Add base context menu to pdf list.
+  
+## day 242 (August 29, 2019)
+  Added rename file functionality to scanned files.
+
