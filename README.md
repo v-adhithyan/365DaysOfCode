@@ -713,3 +713,6 @@ z
 ## day 242 (August 29, 2019)
   Added rename file functionality to scanned files.
 
+## day 243 (August 30, 2019)
+  Add minor change to not show crop view when image is cropped.
+
