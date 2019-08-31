@@ -716,3 +716,6 @@ z
 ## day 243 (August 30, 2019)
   Add minor change to not show crop view when image is cropped.
 
+## day 244 (August 31, 2019)
+  Read some pycoder newsletter.
+
