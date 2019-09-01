@@ -719,3 +719,6 @@ z
 ## day 244 (August 31, 2019)
   Read some pycoder newsletter.
 
+## day 245 (September 01, 2019)
+  Viewed and read some source code of requests python lib.
+
