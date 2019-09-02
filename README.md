@@ -722,3 +722,6 @@ z
 ## day 245 (September 01, 2019)
   Viewed and read some source code of requests python lib.
 
+## day 246 (September 02, 2019)
+  Optimized rename media files code.
+
