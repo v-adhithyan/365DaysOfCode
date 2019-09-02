@@ -45,8 +45,8 @@ def get_or_create_directories(path, languages):
 
 
 def organize(path):
-    languages = ["tamil", "telugu", "malayalam",
-                 "kannada", "others", "hindi", "english"]
+    languages = {"tamil", "telugu", "malayalam",
+                 "kannada", "others", "hindi", "english"}
     series = {
         'season': 'series'
     }
