@@ -725,3 +725,8 @@ z
 ## day 246 (September 02, 2019)
   Optimized rename media files code.
 
+## day 247 (September 03, 2019)
+  Made some minor changes to snake game.
+
+## day 248 (Septembe 04, 2019)
+  Optimized crop image code.
