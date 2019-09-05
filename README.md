@@ -728,5 +728,9 @@ z
 ## day 247 (September 03, 2019)
   Made some minor changes to snake game.
 
-## day 248 (Septembe 04, 2019)
+## day 248 (September 04, 2019)
   Optimized crop image code.
+  
+## day 249 (September 05, 2019)
+  Added exception handling to document detection code and disable crop button in
+  case of exception.
