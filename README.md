@@ -734,3 +734,6 @@ z
 ## day 249 (September 05, 2019)
   Added exception handling to document detection code and disable crop button in
   case of exception.
+  
+## day 250 (September 06, 2019)
+  Complete login flow of sma android.
