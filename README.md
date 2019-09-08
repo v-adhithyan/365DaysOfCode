@@ -737,3 +737,10 @@ z
   
 ## day 250 (September 06, 2019)
   Complete login flow of sma android.
+  
+## day 251 (September 07, 2019)
+  Add splash screen to sma android.
+  
+## day 252 (September 08, 2019)
+  Complete dashboard menu.
+
