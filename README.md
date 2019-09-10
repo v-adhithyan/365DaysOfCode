@@ -744,3 +744,9 @@ z
 ## day 252 (September 08, 2019)
   Complete dashboard menu.
 
+## day 253 (September 09, 2019)
+  Complete attendance mock.
+  
+## day 254 (September 10, 2019)
+  Complete messages mock.
+
