@@ -750,3 +750,11 @@ z
 ## day 254 (September 10, 2019)
   Complete messages mock.
 
+## day 255 (September 11, 2019)
+  Changed login screen design and font.
+
+## day 256 (September 12, 2019)
+  Added some options ot nav drawer.
+
+## day 257 (September 13, 2019)
+  Read pycoder newsletter.
