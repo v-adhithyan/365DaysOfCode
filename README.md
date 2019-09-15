@@ -758,3 +758,9 @@ z
 
 ## day 257 (September 13, 2019)
   Read pycoder newsletter.
+  
+## day 258 (September 14, 2019)
+  Add share context menu option in Scan2Pdf app.
+  
+## day 259 (September 15, 2019)
+  Optimize image scaling during pdf creation in Scan2Pdf.
