@@ -764,3 +764,6 @@ z
   
 ## day 259 (September 15, 2019)
   Optimize image scaling during pdf creation in Scan2Pdf.
+  
+## day 260 (September 16, 2019)
+  Add delete context menu option in Scan2Pdf.
