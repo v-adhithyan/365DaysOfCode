@@ -767,3 +767,6 @@ z
   
 ## day 260 (September 16, 2019)
   Add delete context menu option in Scan2Pdf.
+
+## day 261 (September 17, 2019)
+  Read pycoder newsletter
