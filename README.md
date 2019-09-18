@@ -770,3 +770,6 @@ z
 
 ## day 261 (September 17, 2019)
   Read pycoder newsletter
+  
+## day 262 (September 18, 2019)
+  Worked on python itertools.
