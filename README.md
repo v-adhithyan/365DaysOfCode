@@ -776,3 +776,6 @@ z
 
 ## day 263 (September 19, 2019)
   Read source code of Flask python.
+
+## day 264 (September 20, 2019)
+  Checked out 30 seconds of python github repo.
