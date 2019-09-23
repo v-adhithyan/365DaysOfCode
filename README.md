@@ -785,3 +785,6 @@ z
 
 ## day 266 (September 22, 2019)
   Brushed up some react native.
+
+## day 267 (September 23, 2019)
+  Learnt about jetpack compose.
