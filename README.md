@@ -788,3 +788,6 @@ z
 
 ## day 267 (September 23, 2019)
   Learnt about jetpack compose.
+
+## day 268 (September 24, 2019)
+  Learnt about memory management in python.
