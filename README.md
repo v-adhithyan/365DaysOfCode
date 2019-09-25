@@ -791,3 +791,6 @@ z
 
 ## day 268 (September 24, 2019)
   Learnt about memory management in python.
+
+## day 269 (September 25, 2019)
+  Fixed a bug in scan2pdf.
