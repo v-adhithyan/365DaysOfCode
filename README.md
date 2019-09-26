@@ -794,3 +794,6 @@ z
 
 ## day 269 (September 25, 2019)
   Fixed a bug in scan2pdf.
+
+## day 270 (September 26, 2019)
+  Optimized pdf deletion logic.
