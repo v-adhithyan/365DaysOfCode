@@ -797,3 +797,6 @@ z
 
 ## day 270 (September 26, 2019)
   Optimized pdf deletion logic.
+
+## day 271 (September 27, 2019)
+  Remove context menu if no scans are present.
