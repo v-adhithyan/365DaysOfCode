@@ -800,3 +800,6 @@ z
 
 ## day 271 (September 27, 2019)
   Remove context menu if no scans are present.
+
+## day 272 (September 28, 2019)
+  Add graph adjacency lists.
