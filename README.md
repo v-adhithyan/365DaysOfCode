@@ -803,3 +803,6 @@ z
 
 ## day 272 (September 28, 2019)
   Add graph adjacency lists.
+  
+## day 273 (September 29, 2019)
+  Add graph bfs, dfs
