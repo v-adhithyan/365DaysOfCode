@@ -806,3 +806,6 @@ z
   
 ## day 273 (September 29, 2019)
   Add graph bfs, dfs
+  
+## day 274 (September 30, 2019)
+  Add topological sort.
