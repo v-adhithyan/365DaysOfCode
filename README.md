@@ -809,3 +809,8 @@ z
   
 ## day 274 (September 30, 2019)
   Add topological sort.
+
+## day 275 (October 1, 2019)
+  Add simple voting bot.
+
+  
