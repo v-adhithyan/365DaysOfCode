@@ -813,4 +813,5 @@ z
 ## day 275 (October 1, 2019)
   Add simple voting bot.
 
-  
+## day 276 (October 2, 2019)
+  Read pycoders news letter.
