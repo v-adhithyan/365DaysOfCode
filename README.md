@@ -815,3 +815,6 @@ z
 
 ## day 276 (October 2, 2019)
   Read pycoders news letter.
+
+## day 277 (October 3, 2019)
+  Learn about generators in python.
