@@ -818,3 +818,6 @@ z
 
 ## day 277 (October 3, 2019)
   Learn about generators in python.
+
+## day 278 (October 4, 2019)
+  Read about preventing sql injection in python.
