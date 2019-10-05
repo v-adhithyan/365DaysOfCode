@@ -821,3 +821,6 @@ z
 
 ## day 278 (October 4, 2019)
   Read about preventing sql injection in python.
+
+## day 279 (October 5, 2019)
+  StringIO vs BytesIO python.
