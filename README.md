@@ -824,3 +824,6 @@ z
 
 ## day 279 (October 5, 2019)
   StringIO vs BytesIO python.
+
+## day 280 (October 6, 2019)
+  Multiprocessing vs threading in python.
