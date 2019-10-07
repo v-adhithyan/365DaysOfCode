@@ -827,3 +827,6 @@ z
 
 ## day 280 (October 6, 2019)
   Multiprocessing vs threading in python.
+
+## day 281 (October 7, 2019)
+  Learn about typing module in python.
