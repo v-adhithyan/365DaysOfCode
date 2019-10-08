@@ -830,3 +830,6 @@ z
 
 ## day 281 (October 7, 2019)
   Learn about typing module in python.
+
+## day 282 (October 8, 2019)
+  Python url slugify different approaches (https://www.peterbe.com/plog/fastest-python-function-to-slugify-a-string)
