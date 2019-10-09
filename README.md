@@ -833,3 +833,6 @@ z
 
 ## day 282 (October 8, 2019)
   Python url slugify different approaches (https://www.peterbe.com/plog/fastest-python-function-to-slugify-a-string)
+
+## day 283 (October 9, 2019)
+  Try out some pandas lib (https://www.dataschool.io/python-pandas-tips-and-tricks/)
