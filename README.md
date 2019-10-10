@@ -836,3 +836,6 @@ z
 
 ## day 283 (October 9, 2019)
   Try out some pandas lib (https://www.dataschool.io/python-pandas-tips-and-tricks/)
+
+## day 284 (October 10, 2019)
+  Learn about python zip builtin
