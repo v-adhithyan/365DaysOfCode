@@ -839,3 +839,16 @@ z
 
 ## day 284 (October 10, 2019)
   Learn about python zip builtin
+  
+## day 285 (October 11, 2019)
+  Add watermark support for Scan2Pdf.
+
+## day 286  (October 12, 2019)
+  Minor optimization in india-elections
+  
+## day 287 (October 13, 2019)
+  Add readme in snake game
+
+## day 288 (October 14, 2019)
+  Learn about unittest module python.
+
