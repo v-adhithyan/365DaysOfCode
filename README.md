@@ -852,3 +852,5 @@ z
 ## day 288 (October 14, 2019)
   Learn about unittest module python.
 
+## day 289 (October 15, 2019)
+  Learn about mock module in python.
