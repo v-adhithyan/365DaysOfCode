@@ -854,3 +854,6 @@ z
 
 ## day 289 (October 15, 2019)
   Learn about mock module in python.
+
+## day 290 (October 16, 2019)
+  Read pycoders news letter.
