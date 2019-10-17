@@ -857,3 +857,6 @@ z
 
 ## day 290 (October 16, 2019)
   Read pycoders news letter.
+
+## day 291 (October 17, 2019)
+  Learn about pydoc and doc test module in python.
