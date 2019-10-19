@@ -863,3 +863,6 @@ z
 
 ## day 292 (October 18, 2019)
   Complete 30 days of react - day 1
+
+## day 293 (October 19, 2019)
+  Learn about JSX - day 2 of 30 days of react.
