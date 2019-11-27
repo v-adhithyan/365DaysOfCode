@@ -875,3 +875,6 @@ z
 
 ## day 296 (October 22, 2019)
   Complete 30 days of react - day 5.
+
+## day 297 - day 330 (October 23, 2019 - November 26, 2019)
+  Read various tutorials, python stand library docs.
