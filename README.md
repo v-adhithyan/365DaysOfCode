@@ -876,29 +876,32 @@ z
 ## day 296 (October 22, 2019)
   Complete 30 days of react - day 5.
 
-## day 297 - day 330 (October 23, 2019 - November 27, 2019)
+## day 297 - day 331 (October 23, 2019 - November 27, 2019)
   Read various tutorials, python stand library docs.
 
-## day 331 (November 28, 2019)
+## day 332 (November 28, 2019)
   Complete 30 days of react - day 6.
 
-## day 332 (November 29, 2019)
+## day 333 (November 29, 2019)
   Complete 30 days of react - day 7.
 
-## day 333 (November 30, 2019)
+## day 334 (November 30, 2019)
   Complete 30 days of react - day 8.
 
-## day 334 (December 01, 2019)
+## day 335 (December 01, 2019)
   Complete 30 days of react - day 9.
 
-## day 335 (December 02, 2019)
+## day 336 (December 02, 2019)
   Complete 30 days of react - day 10.
 
-## day 336 (December 03, 2019)
+## day 337 (December 03, 2019)
   Complete 30 days of react - day 11.
   
-## day 337 (December 04, 2019)
+## day 338 (December 04, 2019)
   Complete 30 days of react - day 12.
 
-## day 338 (December 05, 2019)
+## day 339 (December 05, 2019)
   Complete 30 days of react - day 13.
+
+## day 340 (December 06, 2019)
+  Complete 30 days of react - day 14.
