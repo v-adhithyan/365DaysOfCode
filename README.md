@@ -908,3 +908,6 @@ z
 
 ## day 341 (December 07, 2019)
   Complete 30 days of react - day 15.
+
+## day 342 (December 08, 2019)
+  Complete 30 days of react - day 16.
