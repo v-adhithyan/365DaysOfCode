@@ -911,3 +911,9 @@ z
 
 ## day 342 (December 08, 2019)
   Complete 30 days of react - day 16.
+
+## day 343 (December 09, 2019)
+  Complete 30 days of react - day 17.
+
+## day 344 (December 10, 2019)
+  Complete 30 days of react - day 18.
