@@ -923,3 +923,6 @@ z
 
 ## day 346 (December 12, 2019)
   Complete 30 days of react - day 20.
+
+## day 347 (December 13, 2019)
+  Complete 30 days of react - day 21.
