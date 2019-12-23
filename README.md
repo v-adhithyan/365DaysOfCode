@@ -953,3 +953,6 @@ z
 
 ## day 356 (December 22, 2019)
   Complete 30 days of react - day 30.
+
+## day 357 (December 23, 2019)
+  Read pycoders weekly newsletter.
