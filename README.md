@@ -956,3 +956,6 @@ z
 
 ## day 357 (December 23, 2019)
   Read pycoders weekly newsletter.
+
+## day 358 (December 24, 2019)
+  Spell checker implementation in python.
