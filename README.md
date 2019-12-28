@@ -962,3 +962,12 @@ z
 
 ## day 359 (December 25, 2019)
   Merge MP3 android app add a function to extract file path from uri.
+
+## day 360 (December 26, 2019)
+  Added file explorer in merge mp3 app to choose files.
+
+## day 361 (December 27, 2019)
+  Completed initial version of merge android mp3 app.
+
+## day 362 (December 28, 2019)
+  Fixed a bug in mp3 merge android app.
