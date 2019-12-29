@@ -971,3 +971,6 @@ z
 
 ## day 362 (December 28, 2019)
   Fixed a bug in mp3 merge android app.
+
+## day 363 (December 29, 2019)
+  Revamped UI and added Recent Files section to merge mp3 android app.
