@@ -975,5 +975,5 @@ z
 ## day 363 (December 29, 2019)
   Revamped UI and added Recent Files section to merge mp3 android app.
 
-## day 364 (December 24, 2019)
+## day 364 (December 30, 2019)
   Show files chosen during merge activity.
