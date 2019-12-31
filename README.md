@@ -977,3 +977,6 @@ z
 
 ## day 364 (December 30, 2019)
   Show files chosen during merge activity.
+
+## day 365 (December 31, 2019)
+  Read pycoders newsletter.
